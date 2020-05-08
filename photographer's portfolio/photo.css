@@ -1,0 +1,28 @@
+img {
+
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+body {
+	background: #DDDDDD;
+}
+
+p{
+	font-family: Indie Flower;
+	font-size: 40px;
+	border-bottom: 1px solid grey;
+	margin: 1.66%;
+	width: 30%;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+
+}
+.yoo
+{
+	font-size: 20px;
+	margin:auto;
+	text-align: center;
+	border-bottom: 0px solid grey;
+	padding-bottom: 0px;
+}
